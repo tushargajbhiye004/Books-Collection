@@ -773,14 +773,14 @@
  },
 
 {
-   "id" : "777",
+   "id" : "71",
    "bookName" :"The Pragmatic Programmer",
-      "authorName" : "Addison-Wesley Professional",
+   "authorName" : "Addison-Wesley Professional",
    "bookLink"   : "https://books.google.com/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC"
    },
  
 {
-   "id" : "63",
+   "id" : "72",
    
    "bookName" : "Programming with Java",
    
@@ -792,7 +792,7 @@
 
 
 {
-   "id" : "71",
+   "id" : "73",
    
    "bookName" : "The Art of Logic",
    
@@ -801,7 +801,7 @@
    "boolLink" : "https://www.audible.in/pd/The-Art-of-Logic-Audiobook/B086G35NFG?https%3A%2F%2Fwww.audible.in%2F%3F&source_code=AUDTM13403072200B3"
 },
 {
-   "ID" : "72",
+   "id" : "74"
    
    "BookName" : "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
    
@@ -812,15 +812,71 @@
 
 {
         
-       "id" : ""72,
+   "id" : "75",
   
-       "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
+   "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
   
-       "authorName" : "Darius Foroux",
+   "authorName" : "Darius Foroux",
   
-       "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+   "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
        
-    },
+ },
+{
+        
+   "id" : "76",
+  
+   "bookName" : "Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team",
+  
+   "authorName" : "Simon Sinek",
+  
+   "bookLink" : "https://www.pdfdrive.com/find-your-why-a-practical-guide-for-discovering-purpose-for-you-and-your-team-d157049824.html"
+       
+ },
+{
+        
+   "id" : "77",
+  
+   "bookName" : "Life’s Amazing Secrets: How to Find Balance and Purpose in Your Life",
+  
+   "authorName" : "Gaur Gopal Das",
+  
+   "bookLink" : "https://www.pdfdrive.com/lifes-amazing-secrets-how-to-find-balance-and-purpose-in-your-life-d157203656.html"
+       
+ },
+{
+        
+   "id" : "78",
+  
+   "bookName" : "The 5 AM Club: Own Your Morning. Elevate Your Life.",
+  
+   "authorName" : "Robin Sharma",
+  
+   "bookLink" : "https://www.pdfdrive.com/the-5-am-club-own-your-morning-elevate-your-life-d199799461.html"
+       
+ },
+{
+        
+   "id" : "79",
+  
+   "bookName" : "Rich Dad Poor Dad",
+  
+   "authorName" : "Robert Kiyosaki",
+  
+   "bookLink" : "https://www.pdfdrive.com/rich-dad-poor-dad-d136494023.html"
+       
+ },
+{
+        
+   "id" : "80",
+  
+   "bookName" : "How To Win Friends and Influence People",
+  
+   "authorName" : "Dale Carnegie",
+  
+   "bookLink" : "https://www.pdfdrive.com/how-to-win-friends-and-influence-people-d176018081.html"
+       
+ },
+
 
 
 ]
